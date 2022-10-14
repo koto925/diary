@@ -2,7 +2,7 @@ import Head from "next/head";
 import Link from "next/link";
 import { type ReactNode } from "react";
 
-const siteTitle = "koto's diary;
+const siteTitle = "koto's diary";
 
 export default function Layout({ children }: { children: ReactNode }) {
   return (
